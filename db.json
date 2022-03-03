@@ -1,0 +1,154 @@
+{
+  "projects": [
+    {
+      "name": "Jussara Maria",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Fibrocimento"
+      },
+      "cost": 157,
+      "services": [
+        {
+          "name": "SOLAR 5KW",
+          "cost": "157",
+          "description": "1 Inversor Growatt 8KW + 12 painéis de 545W ",
+          "id": "ff7efaf1-0bbc-48be-ada0-c624f449d3d9"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "João das Couve",
+      "budget": "27000",
+      "category": {
+        "id": "3",
+        "name": "Metálica"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Pedro Vasconcelos Souza",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Colonial"
+      },
+      "cost": 10500,
+      "services": [
+        {
+          "name": "SOLAR 10KW",
+          "cost": "10000",
+          "description": "1 Inversor Growatt 8KW + 12 painéis de 545W ",
+          "id": "6d8f97fb-9f79-4ae9-a6f9-e3112da30a99"
+        },
+        {
+          "name": "Limpeza de painéis",
+          "cost": "500",
+          "description": "Limpeza de 24 paineis",
+          "id": "d0165e55-a0b1-4c7a-a852-5ec27ac0617a"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "OKA_BRASIL_DICOMP",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Fibrocimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "OKA_BRASIL_DICOMP",
+      "budget": "200000",
+      "category": {
+        "id": "1",
+        "name": "Colonial"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "PR_TELECOM_FABRICA",
+      "budget": "32323",
+      "category": {
+        "id": "2",
+        "name": "Fibrocimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "João Pedro José",
+      "budget": "20000",
+      "category": {
+        "id": "1",
+        "name": "Colonial"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "OKA_BRASIL_DICOMP",
+      "budget": "333232",
+      "category": {
+        "id": "2",
+        "name": "Fibrocimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "Gervasio Galo",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Fibrocimento"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Instalação Gerador",
+          "cost": "1500",
+          "description": "1 Inversor Growatt 8KW + 12 painéis de 545W ",
+          "id": "72c7e91e-4281-442c-9abe-85068729bb40"
+        },
+        {
+          "name": "Limpeza de painéis",
+          "cost": "500",
+          "description": "Limpeza de 24 paineis",
+          "id": "acd37bbe-52ea-49a2-8edd-9619e8eeb925"
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Colonial"
+    },
+    {
+      "id": 2,
+      "name": "Fibrocimento"
+    },
+    {
+      "id": 3,
+      "name": "Metálica"
+    },
+    {
+      "id": 4,
+      "name": "Platibanda"
+    }
+  ]
+}
